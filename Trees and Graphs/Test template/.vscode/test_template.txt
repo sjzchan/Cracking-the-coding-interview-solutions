@@ -1,0 +1,12 @@
+
+
+1. Search, insertion and removal times of: Array, Linked List, Sorted Array, Balanced BST (average, best and worst case for each)
+2. Definition of a balanced BST
+3. BST implementation with search, insertion and removal functions 
+4. DFS
+5. BFS: in-order, pre-order, post-order
+6. Find min and max element in a BST
+7. Find height of binary tree
+8. Check if a binary tree is BST
+
+
